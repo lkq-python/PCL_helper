@@ -33,7 +33,6 @@ Temporary Items
 # Distribution / packaging
 .Python
 env/
-resources/
 .venv/
 build/
 develop-eggs/
@@ -65,3 +64,4 @@ logs/
 
 # Briefcase local configuratoin
 .briefcase/
+beeware-venv/
